@@ -10,7 +10,9 @@ I majorly consulted two people's repo:
 - [kurdty](https://github.com/baasitsharief/Zendesk_Coding_Challenge/blob/main/frontend/src/components/Ticket.js) He uses hooks, which i prefer.
 
 
-**So Now Lets Chill and do this project, which would be another boost to my trash resume.** Lee at 11/26.
+**So Now Lets Chill and do this project, which would be another boost to my trash resume.** 
+
+做不出来，操他妈的。这些人react都从哪里学的，这还是Intern的水平吗，不想活了。
   
 ## Resources to look up
 
