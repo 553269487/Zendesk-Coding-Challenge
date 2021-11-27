@@ -1,5 +1,7 @@
 # Zendesk-Coding-Challenge
 
+Since the project only requires view the ticket, we use the request api from the client view.
+
 
 ---
 ## Resources to look up
