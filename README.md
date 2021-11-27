@@ -6,7 +6,9 @@ I am quite a rookie with only weird Udemy level of expierence with React and Exp
 
 I majorly consulted two people's repo: 
 - [Nick-son](https://github.com/ahgdyycc/zendesk-coding-challenge) who shows a beautiful front end. He uses props a lot.
-- [badJK](https://github.com/beastjk07/Zendesk-Coding-Challenge/blob/master/server/index.js) a really great full project. He uses hooks, which i prefer.
+- [badJK](https://github.com/beastjk07/Zendesk-Coding-Challenge/blob/master/server/index.js) 
+- [kurdty](https://github.com/baasitsharief/Zendesk_Coding_Challenge/blob/main/frontend/src/components/Ticket.js) He uses hooks, which i prefer.
+
 
 **So Now Lets Chill and do this project, which would be another boost to my trash resume.** Lee at 11/26.
   
