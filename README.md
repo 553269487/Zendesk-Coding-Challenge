@@ -12,8 +12,6 @@ I majorly consulted two people's repo:
 
 **So Now Lets Chill and do this project, which would be another boost to my trash resume.** 
 
-做不出来，操他妈的。这些人react都从哪里学的，这还是Intern的水平吗，不想活了。
-  
 ## Resources to look up
 
 [how to encode Base64](https://codezup.com/3-ways-to-base64-string-encode-decode-javascript-node-js/)
